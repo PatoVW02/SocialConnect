@@ -1,0 +1,35 @@
+# npm
+Backend/node_modules
+Backend/package-lock.json
+Backend/*.log
+Backend/*.gz
+Backend/*.env
+
+# OS X Finder
+/.DS_Store
+
+# Xcode per-user config
+/*.mode1
+/*.mode1v3
+/*.mode2v3
+/*.perspective
+/*.perspectivev3
+/*.pbxuser
+/*.xcworkspace
+/xcuserdata
+
+# Build products
+/build/
+/*.o
+/*.LinkFileList
+/*.hmap
+
+# Automatic backup files
+/*~.nib/
+/*.swp
+/*~
+/*.dat
+/*.dep
+Application/SocialConnect.xcodeproj/project.xcworkspace/xcuserdata/alumno.xcuserdatad/UserInterfaceState.xcuserstate
+Application/SocialConnect.xcodeproj/project.xcworkspace/xcuserdata/patricio.xcuserdatad/UserInterfaceState.xcuserstate
+Application/SocialConnect.xcodeproj/project.xcworkspace/xcuserdata/pedroalonsoms.xcuserdatad/UserInterfaceState.xcuserstate
